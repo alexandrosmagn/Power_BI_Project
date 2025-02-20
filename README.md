@@ -5,4 +5,5 @@ This Power BI project is about analyzing sales data.Specifically;
 - Geospatial data are presented that provide answers for products
 - Key Influencers and report summaries for those who seek detail in data and those who prefer a quick repor,respectively.
 
-**DATA SOURCE**
+## DATA SOURCE
+Data retrieved from
