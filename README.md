@@ -6,4 +6,4 @@ This Power BI project is about analyzing sales data.Specifically;
 - Key Influencers and report summaries for those who seek detail in data and those who prefer a quick repor,respectively.
 
 ## DATA SOURCE
-Data retrieved from
+Data retrieved from [Kaggle](https://www.kaggle.com) website.
